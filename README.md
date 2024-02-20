@@ -5,4 +5,4 @@ then te big file that uses big amount of ram) and click "End task".
  1 = Do not open .exe files of unknown origin without scanning them
  2 = Scan with Virustotal, unless you have big files.
  3 = Use antivirus programs. Such as Windows defender
- 4 = Don't hide passwords in browsers ,they are bad at keep them.
+ 4 = Don't hide passwords in browsers ,they are bad at keeping them.
